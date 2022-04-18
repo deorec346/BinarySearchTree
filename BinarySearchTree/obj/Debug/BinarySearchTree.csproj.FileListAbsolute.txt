@@ -1,0 +1,3 @@
+C:\Users\DELL\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
